@@ -10,8 +10,8 @@ npm start
 
 # Comandos 
 
-!1000 pra obter o resutado do 2 turno
-!2000 para obter o resultado do 1 turno
+* !1000 pra obter o resutado do 2 turno
+* !2000 para obter o resultado do 1 turno
 
 # Referencias 
 
